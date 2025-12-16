@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Project specific
+downloads/
+bin/
+ffmpeg.zip
+temp_ffmpeg/
+
+# System
+.DS_Store
+Thumbs.db
